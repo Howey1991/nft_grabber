@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 import subprocess
 import uuid
 
-driver_path = "./chromedriver"
+driver_path = "webdriver.chrome.driver"
 brave_path = "/usr/bin/brave"
 
 option = webdriver.ChromeOptions()
